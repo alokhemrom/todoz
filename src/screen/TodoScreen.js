@@ -12,9 +12,7 @@ import { IconButton } from "react-native-paper";
 import Fallback from "../components/Fallback";
 // import CallButton from "../components/CallButton";
 
-// Experimenting Guys Chill
-// Experimenting Guys Chill2
-
+//dummy data for showing in the screen
 const dummyData = [
   {
     id: "01",
